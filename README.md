@@ -1,5 +1,9 @@
 # HR-Data-Analysis-with-Microsoft-Power-BI
 This project is an analysis of HR data using Microsoft Power BI. The data used is a fictional dataset that contains information about employee demographics, job history, salary, performance, and satisfaction.
+
+**Data Link:**
+https://drive.google.com/file/d/1h4bvZlHJUFAYJ5CbleAmLr6muAX1Q7rm/view
+
 ## Project Goals
 The main goal of this project is to use Power BI to analyze the HR data and create an interactive dashboard that can be used to gain insights into the employee performance, satisfaction, and overall productivity. The specific objectives are as follows:
 
